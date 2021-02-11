@@ -1,2 +1,2 @@
 # licenceskey
-Licences Key for different software or KeyGen
+Licences Key or KeyGen link for different softwares
