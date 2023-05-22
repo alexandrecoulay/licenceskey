@@ -39,7 +39,7 @@
 -   4A4RR-813DK-M81A9-4U35H-06KND
 -   NZ4RR-FTK5H-H81C1-Q30QH-1V2LA
 
-- ## **VMware GSX Server v3.xx / VMware Server v1.xx**
+## **VMware GSX Server v3.xx / VMware Server v1.xx**
 -   98XY4-54VA4-4216V-4PDZ6
 -   WH0M5-XW50J-WA4FU-4MTZ3
 -   N218N-NR66R-F0JDF-4P9NP
